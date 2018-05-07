@@ -13,7 +13,7 @@ Extending FAIR principles to bioassay protocols requires that these *human-reada
 
 Some examples of public bioassay protocol sources:
 
-* **PubChem**: the assay collection is easily accessible interactively or by API, and provides some metadata, but most of it is noisy and lacks any kind of schema; the ingestion process includes data from essentially any source, and the qualify varies between both extremes
+* **PubChem**: the assay collection is easily accessible interactively or by API, and provides some metadata, but most of it is noisy and lacks any kind of schema; the ingestion process includes data from essentially any source, and the quality varies between both extremes
 
 * **PubMed**: a vast source of published papers, many of which contain assay protocols, but with limited information about where the content is located
 
