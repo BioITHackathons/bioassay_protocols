@@ -48,4 +48,12 @@ By the end of the hackathon, we should have either consensus or several differen
 
 ## Datasets
 
-...
+The following 4 protocols are available in the PubChem assays collection, and are diverse examples from 4 different laboratories:
+
+1. [AID 1885](https://pubchem.ncbi.nlm.nih.gov/bioassay/1885): Luminescence Cell-Based/Microorganism Primary HTS to Identify Inhibitors of T.Cruzi Replication (primary assay, Broad Institute)
+
+2. [AID 624353](https://pubchem.ncbi.nlm.nih.gov/bioassay/624353): Fluorescence polarization-based biochemical dose-response assay for inhibitors of wild-type (WT) recombinant IDE (counterscreen, Scripps Institute)
+
+3. [AID 624023](https://pubchem.ncbi.nlm.nih.gov/bioassay/624023): QHTS For Inhibitors Of Mutant Isocitrate Dehydrogenase 1 (IDH1) (lead optimization, NCATS Chemical Genomics Center)
+
+4. [AID 1224875](https://pubchem.ncbi.nlm.nih.gov/bioassay/1224875): A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells (toxicity, EPA Tox21)
